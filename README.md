@@ -26,8 +26,10 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 
 ## 💻 IDEs & Editores de Código
 <p align="center">
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
 </p>
+
 
 ## 📚 Lenguajes & Herramientas
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java) ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php) ![Shell Script](https://img.shields.io/badge/-Shell_Script-%2391A3B0?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
