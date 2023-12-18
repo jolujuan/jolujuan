@@ -27,7 +27,7 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 - **Angular**
 
 ## 💻 IDEs & Editores de Código
-- ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white) - ![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat-square&logo=visual-studio&logoColor=white) -![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
 
 ## 📚 Lenguajes & Herramientas
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
