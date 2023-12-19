@@ -37,7 +37,7 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏗️ CMS & Frameworks & Librerias
+## 🏗️ Frameworks & CMS & Librerias
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,9 +58,8 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 
 👀 Siéntete libre de echar un vistazo a mis repositorios y no dudes en contribuir o dar feedback.. <!-- y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/[TuPerfilDeLinkedIn]). -->
 
-<h2 id="estadísticas">📈 Estadísticas</h2>
+## 📈 Estadísticas
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=igijon&show_icons=true&hide_border=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igijon&hide_border=true&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jolujuan&show_icons=true&hide_border=true&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujuan&hide_border=true&theme=radical" />
 </p>
-<br>
