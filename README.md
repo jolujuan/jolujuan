@@ -55,8 +55,8 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🖥️ Apis
-![API Rest](https://img.shields.io/badge/API-RESTful-green.svg)
-![API Restful](https://img.shields.io/badge/API-RESTful-green.svg)
+![API Rest](https://img.shields.io/badge/API-REST-green.svg)
+![API Restful](https://img.shields.io/badge/API-RESTful-blue.svg)
 
 ---
 
