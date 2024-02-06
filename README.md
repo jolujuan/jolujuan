@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 ### ¡Hola! 👋 I'm Jose Luis
 
-¡Bienvenidos a mi perfil de GitHub! Aquí encontrarán proyectos en los que he trabajado y algo más sobre mí.
+¡Bienvenidos a mi perfil de GitHub! Aquí encontrarán proyectos en los que he trabajado y algo más:
 
 ##  Sobre mí
-Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay algunas estadísticas interesantes:
+Me apasiona el desarrollo web Frontend y siempre estoy buscando aprender más.
 
-## 🌱 Actualmente estoy aprendiendo
+##  Actualmente estoy aprendiendo
 - **Angular**
 
 ## 💻 IDEs y Editores de Código
@@ -62,7 +62,7 @@ Me apasiona el desarrollo web y siempre estoy buscando aprender más. Aquí hay 
 
 ---
 
-👀 Siéntete libre de echar un vistazo a mis repositorios y no dudes en contribuir o dar feedback.. <!-- y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/[TuPerfilDeLinkedIn]). -->
+👀 Pueses echar un vistazo a mis repositorios y no dudes en contribuir o dar feedback... <!-- y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/[TuPerfilDeLinkedIn]). -->
 
 ## 📈 Estadísticas
 <p align="center">
