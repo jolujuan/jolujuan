@@ -1,4 +1,3 @@
-
 <!--
 **jolujuan/jolujuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,21 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ¡Hola! 👋 I'm Jose Luis
+### Hello! 👋 I'm Jose Luis
 
-¡Bienvenidos a mi perfil de GitHub! Aquí encontrarán proyectos en los que he trabajado y algo más:
+Welcome to my GitHub profile! Here you'll find projects I've worked on and more:
 
-##  Sobre mí
-Me apasiona el desarrollo web Frontend y siempre estoy buscando aprender más.
+## About Me
+I am passionate about Frontend web development and always looking to learn more.
 
-##  Actualmente estoy aprendiendo
+## Currently Learning
 - **Angular**
 
-## 💻 IDEs y Editores de Código
+## 💻 IDEs and Code Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## 🚀 Lenguajes
+## 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +37,7 @@ Me apasiona el desarrollo web Frontend y siempre estoy buscando aprender más.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏗️ Frameworks & CMS & Librerias
+## 🏗️ Frameworks & CMS & Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,24 +46,24 @@ Me apasiona el desarrollo web Frontend y siempre estoy buscando aprender más.
 ![Font Awesome](https://img.shields.io/badge/-Font_Awesome-%23339AF0?style=flat-square&logo=font-awesome&logoColor=white)
 
 
-## 💾 Bases de Datos
+## 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 🖥️ Servidores
+## 🖥️ Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🖥️ Apis
+## 🖥️ APIs
 ![API Rest](https://img.shields.io/badge/API-REST-green.svg)
 ![API Restful](https://img.shields.io/badge/API-RESTful-blue.svg)
 
 ---
 
-👀 Pueses echar un vistazo a mis repositorios y no dudes en contribuir o dar feedback... <!-- y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/[TuPerfilDeLinkedIn]). -->
+👀 Feel free to take a look at my repositories and don't hesitate to contribute or give feedback... <!-- and connect with me on [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile]). -->
 
-## 📈 Estadísticas
+## 📈 Statistics
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jolujuan&show_icons=true&hide_border=true&theme=radical" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujuan&hide_border=true&theme=radical" />
