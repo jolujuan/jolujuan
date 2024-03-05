@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! 👋 I'm Jose Luis
+### Hello!
 
-Welcome to my GitHub profile! Here you'll find projects I've worked on and more:
+Here you'll find projects I've worked on and more:
 
-## About Me
+## About
 I am passionate about Frontend web development and always looking to learn more.
 
 ## Currently Learning
@@ -61,7 +61,7 @@ I am passionate about Frontend web development and always looking to learn more.
 
 ---
 
-👀 Feel free to take a look at my repositories and don't hesitate to contribute or give feedback... <!-- and connect with me on [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile]). -->
+👀 Look at my repositories and don't hesitate to contribute or give feedback... <!-- and connect with me on [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile]). -->
 
 ## 📈 Statistics
 <p align="center">
