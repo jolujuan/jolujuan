@@ -70,3 +70,6 @@ I am passionate about creating solutions that make life a bit easier and more in
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jolujuan&show_icons=true&hide_border=true&theme=radical" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujuan&hide_border=true&theme=radical" />
 </p>
+<p align="center">
+<img width="48%" src="https://i.postimg.cc/htyCbjL4/language-usage.png" />
+</p>
