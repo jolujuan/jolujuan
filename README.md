@@ -72,5 +72,5 @@ I am passionate about creating solutions that make life a bit easier and more in
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujuan&hide_border=true&theme=radical" />
 </p>
 <p align="center">
-<img width="48%" src="https://i.postimg.cc/htyCbjL4/language-usage.png" />
+<img width="58%" src="https://i.postimg.cc/BZBBBbsW/language-usage-mb-styled.png" />
 </p>
