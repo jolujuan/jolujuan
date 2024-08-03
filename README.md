@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hello!
 
-Here you'll find projects I've worked on and more:
+Welcome to my GitHub profile! Here, you’ll find a variety of projects I’ve worked on, each with its own story and learning experiences.
 
 ## About
-I am passionate about Frontend and Backend web development and always looking to learn more.
+I am passionate about creating solutions that make life a bit easier and more interesting. In the world of web development, I enjoy both designing interfaces and managing server-side logic, always with an eye toward learning and improvement. I love the constant challenge and the opportunity to innovate and tackle new hurdles.
 
 
 ## 💻 IDEs and Code Editors
